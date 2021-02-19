@@ -891,6 +891,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentBallRigidbody: {fileID: 1614601579}
+  currentSPringJoint: {fileID: 1614601583}
+  delayInSeconds: 0.08
 --- !u!4 &1309125878
 Transform:
   m_ObjectHideFlags: 0
